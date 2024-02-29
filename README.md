@@ -26,6 +26,10 @@ Once the project is running on your Android device or emulator, you will see a l
 * Android Studio
 * Retrofit/Room
 
+## Contributing
+Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
+
+
 
 ## Quick Look
 ![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgzb29hZmNvcDllNzhucTU5eTRzaWlqbHFxaHJkbTdxZTl3dDFsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeS7PGeVrrpUZfkcnb/giphy-downsized-large.gif)
