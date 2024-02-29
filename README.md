@@ -24,7 +24,7 @@ Once the project is running on your Android device or emulator, you will see a l
 * Kotlin
 * Jetpack Compose
 * Android Studio
-* Imgur Api
+* Retrofit/Room
 
   
 <br>
