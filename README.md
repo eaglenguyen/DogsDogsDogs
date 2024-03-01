@@ -32,5 +32,5 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 
 
 ## Quick Look
-![App video]()
+![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpyNzFrdzB5NDZqa3BwcWd0bm5xZnkyZXl4ejVxcXY4NnlwdTZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZlY6pRlEw02q2TU9bb/giphy-downsized-large.gif)
  
