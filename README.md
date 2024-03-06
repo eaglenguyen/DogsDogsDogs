@@ -32,5 +32,5 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 
 
 ## Quick Look
-![Dogs](https://i.imgur.com/r9K7Ppy.png)
+<img src="https://i.imgur.com/r9K7Ppy.png" width=50% height=50%>
  
